@@ -1,3 +1,11 @@
+![Eigenbasis](https://eigenbasis.com/eigenbasis.svg)
+
+https://eigenbasis.com
+
+
+#### Purpose
+This is a long-term project devoted to building open-source trading technologies that meet state-of-the-art performance and reliability standards. The idea is to provide building blocks that fintech companies can reuse to build the next class of innovative financial products.
+
 #### Building
 
 ```
@@ -8,9 +16,6 @@ make
 
 This will build the header-only libraries and test suites.
 
-
-#### Purpose
-This is a long-term project devoted to building open-source trading technologies that meet state-of-the-art performance and reliability standards. The idea is to provide building blocks that fintech companies can reuse to build the next class of innovative financial products.
 
 #### Approach
 Building small, reusable, and testable components and abstractions that remain relevant as use cases and technologies evolve.
@@ -30,6 +35,6 @@ Building small, reusable, and testable components and abstractions that remain r
 | **wsfix**          | C++  | streams market data via WebSocket compressed with the FAST algorithm. includes a WebAssembly package for decompression                  | upcoming |
 | **depth-chart**    | JS   | a real-time, interactive depth chart built with D3                                                                                      | upcoming |
 
-### Contributors
+#### Contributors
 
 This project is created and currently maintained by [L. Bensaadi](https://bensaadi.com/). If you are interested in contributing, feel free to [contact me](https://bensaadi.com/contact/).
