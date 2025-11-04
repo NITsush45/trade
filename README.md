@@ -1,6 +1,4 @@
-![Eigenbasis](https://eigenbasis.com/eigenbasis.svg)
-
-https://eigenbasis.com
+![Trade]
 
 
 #### Purpose
