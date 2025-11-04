@@ -18,7 +18,7 @@
 #include "callback.h"
 
 #define INVOKE_PLUGIN_HOOKS(FN) \
-  (void) std::initializer_list<int>{ (Plugins::FN, 0)... };
+  (void) std::initializer_list<int>{ ((Plugins::FN), 0)... };
 
 namespace book {
 

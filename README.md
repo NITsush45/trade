@@ -35,6 +35,3 @@ Building small, reusable, and testable components and abstractions that remain r
 | **wsfix**          | C++  | streams market data via WebSocket compressed with the FAST algorithm. includes a WebAssembly package for decompression                  | upcoming |
 | **depth-chart**    | JS   | a real-time, interactive depth chart built with D3                                                                                      | upcoming |
 
-#### Contributors
-
-This project is created and currently maintained by [L. Bensaadi](https://bensaadi.com/). If you are interested in contributing, feel free to [contact me](https://bensaadi.com/contact/).
